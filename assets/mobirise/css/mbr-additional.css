@@ -486,6 +486,9 @@ h6,
   text-align: center;
   color: #f28281;
 }
+#footer1-2 P {
+  color: #000000;
+}
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -552,6 +555,9 @@ h6,
 #menu-4 .close-icon::before,
 #menu-4 .close-icon::after {
   background-color: #f28281;
+}
+#footer1-6 P {
+  color: #000000;
 }
 
 #menu-2 .hide-buttons .nav-btn {
@@ -620,6 +626,9 @@ h6,
 #menu-2 .close-icon::before,
 #menu-2 .close-icon::after {
   background-color: #f28281;
+}
+#footer1-3 P {
+  color: #000000;
 }
 #gallery3-e LI {
   font-family: 'Oswald', sans-serif;
@@ -691,6 +700,9 @@ h6,
 #menu-c .close-icon::after {
   background-color: #f28281;
 }
+#footer1-d P {
+  color: #000000;
+}
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -758,6 +770,9 @@ h6,
 #menu-l .close-icon::after {
   background-color: #f28281;
 }
+#footer1-n P {
+  color: #000000;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -824,4 +839,7 @@ h6,
 #menu-a .close-icon::before,
 #menu-a .close-icon::after {
   background-color: #f28281;
+}
+#footer1-b P {
+  color: #000000;
 }
